@@ -13,7 +13,10 @@ import com.test.model.testDemo;
 import com.test.service.testDemoService;
 
 public class test01 {
-    
+    //test update
+	private update(){
+		
+	}
     private ApplicationContext ctx = null;
     
     @Before
